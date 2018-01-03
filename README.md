@@ -17,7 +17,7 @@ Download project: e.g.
 ```
 git clone github.com/adamkaliszan/ZigBeeAtCmd
 ```
-go to the project directory
+Go to the project directory
 ```
 cd ZigBeeAtCmd
 ```
