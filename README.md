@@ -34,5 +34,5 @@ make
 
 ## Authors
 
-* **Adam Kaliszan** - *Initial work* - [AdamkKliszan](https://github.com/adamkaliszan)
+* **Adam Kaliszan** - *Initial work* - [AdamKaliszan](https://github.com/adamkaliszan)
 
